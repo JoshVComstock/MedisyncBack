@@ -168,7 +168,6 @@ app.WebSocketEndpoints(app);
 app.RecUsuarioEndpoints();
 app.RecTipoUsuarioEndpoints();
 app.RiModeloEndpoints();
-app.UsuarioConfigEndpoint();
 app.UmCategoriaEndpoints();
 app.PvConfigEndpoints();
 //pesquisas
