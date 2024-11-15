@@ -32,7 +32,7 @@ builder.Services.AddCors(options =>
             "http://localhost:80",
             "http://localhost:5173",
             "http://localhost:5174",
-            "https://deb2-2800-cd0-7412-df00-447d-1595-98a-2af8.ngrok-free.app"
+            "https://medisync-e4231.web.app"
         ).AllowAnyHeader().AllowAnyMethod();
     });
 });
