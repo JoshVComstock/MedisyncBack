@@ -32,7 +32,7 @@ builder.Services.AddCors(options =>
             "http://localhost:80",
             "http://localhost:5173",
             "http://localhost:5174",
-            "https://medisync-e4231.web.app/"
+            "https://medisync-e4231.web.app"
         ).AllowAnyHeader().AllowAnyMethod();
     });
 });
